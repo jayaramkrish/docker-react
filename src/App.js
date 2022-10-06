@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
-           attitude bolthey ra psychosamba 
-=======
-           attitude bolthey re
->>>>>>> d48bb676ae40f1964722f665e004fb50d6a82d62
+           attitude bolthey psycho samba
         </p>
         <a
           className="App-link"
