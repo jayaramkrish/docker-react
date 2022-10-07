@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           attitude bolthey psycho samba 2.0
+           First Deployment with AWS Elastic beanstalk
         </p>
         <a
           className="App-link"
